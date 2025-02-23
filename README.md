@@ -3,5 +3,5 @@
 ## コンテナ起動
 
 ```sh
-docker-compose up -d
+docker compose up -d
 ```
